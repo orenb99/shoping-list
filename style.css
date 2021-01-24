@@ -1,10 +1,12 @@
 li {
     margin-bottom: 10px;
+    font-size: 20px;
   }
-
+  label{
+      font-size: 20px;
+  }
   li button {
-    font-size: 8px;
+    font-size: 15px;
     margin-left: 20px;
     color: #666;
   }
-</style>
