@@ -14,9 +14,7 @@ function store(){
     span.innerText=x;
     deleteButton.innerText="Delete";
     ulist.appendChild(list);
-
+    deleteButton.onclick=function() {list.remove()}
 }
-
-
 
 
